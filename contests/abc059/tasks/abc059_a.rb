@@ -1,0 +1,1 @@
+gets.split.map{ |s| print s[0].upcase }
