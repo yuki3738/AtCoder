@@ -1,4 +1,4 @@
-n = gets.to_s
+n = gets.chop.to_s
 r = n.reverse
 
 if n == r
